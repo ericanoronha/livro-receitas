@@ -7,5 +7,5 @@ Olá! Bem vindo ao meu livro de receitas :smiley:
 
 
 
-[^Baseado no curso de Introdução ao GIT e ao GitHub da Digital Innovation One]: 
+Baseado no curso de Introdução ao GIT e ao GitHub da Digital Innovation One
 
